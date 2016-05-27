@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="RecordMimicry">
+    <file>test.png</file>
+    <file>Vayu.jpg</file>
+  </qresource>
+</RCC>
